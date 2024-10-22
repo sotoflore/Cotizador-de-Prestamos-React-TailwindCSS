@@ -6,5 +6,25 @@ Esta es una Calculadora de Cotización de Préstamos construida con React y Tail
 ## Tecnologías 
 - React - Biblioteca de JavaScript para construir interfaces de usuario.
 - TailwindCSS - Framework CSS basado en utilidades para un desarrollo rápido de interfaces.
-Instalación
 
+## Instalación
+Sigue estos pasos para configurar el proyecto localmente:
+
+1. Clona el repositorio:
+
+  ```bash
+  git clone https://github.com/tu-usuario/calculadora-cotizacion-prestamos.git
+  cd calculadora-cotizacion-prestamos
+```
+
+2. Instala las dependencias:
+
+  ```bash
+  npm install
+  ```
+3. Ejecuta el servidor de desarrollo:
+
+  ```bash
+  npm run dev
+```
+  La aplicación estará disponible en http://localhost:5173.
