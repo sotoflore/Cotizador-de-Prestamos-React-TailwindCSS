@@ -1,8 +1,10 @@
-# React + Vite
+# Calculadora de Cotización de Préstamos
+![cotizador-web](https://github.com/sotoflore/Cotizador-de-Prestamos-React-TailwindCSS/blob/main/public/web-app.png)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Esta es una Calculadora de Cotización de Préstamos construida con React y TailwindCSS. La aplicación permite a los usuarios calcular cotizaciones de préstamos según diferentes montos y plazos. Muestra los pagos mensuales, el total a pagar y el interés total a pagar durante el plazo del préstamo.
 
-Currently, two official plugins are available:
+## Tecnologías 
+- React - Biblioteca de JavaScript para construir interfaces de usuario.
+- TailwindCSS - Framework CSS basado en utilidades para un desarrollo rápido de interfaces.
+Instalación
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
